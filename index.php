@@ -102,7 +102,7 @@
 
 <div class="search-container">
     <input type="text" placeholder="Search." name="search">
-    <button type="submit"><i class="fa-solid fa-search" ></i></button>
+    <button type="submit">Search<i class="fa-solid fa-search" ></i></button>
 
     <button class ='user-action-button'>
         Submit a New Link
